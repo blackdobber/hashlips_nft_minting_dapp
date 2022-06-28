@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x0f12806e939171476e8efF11DdFCC4306859b478",
+  "SCAN_LINK": "https://polygonscan.com/address/0x0f12806e939171476e8efF11DdFCC4306859b478",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "Peersonate",
+  "SYMBOL": "PERSN",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/peersonate",
   "SHOW_BACKGROUND": true
 }
